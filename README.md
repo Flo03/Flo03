@@ -1,6 +1,6 @@
 ### Hi, my name is FLorian 👋
 
-- 🔭  I'm currently working on exciting projects in machine learning, data analysis, and website development. At the moment, I'm researching and developing a real-time glucose           level prediction app that leverages continuous glucose monitoring systems, physical activity detection, heart rate data, and current macronutrient intake.
+- 🔭 At the moment, I'm researching and developing a real-time glucose level prediction app that leverages continuous glucose monitoring systems, physical activity detection, heart rate data, and current macronutrient intake.
 - 🏫 I study Computer Sciences at the University at Albany
 - 🌱 I’m currently learning how to create interactive dashboards and how to create an mobile app.
 - 👯 I’m looking to collaborate on innovative data science projects, especially those related to healthcare, finance, or game analytics.
